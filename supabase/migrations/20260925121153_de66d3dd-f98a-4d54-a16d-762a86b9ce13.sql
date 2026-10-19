@@ -1,0 +1,2 @@
+ALTER TABLE public.shop_settings ADD COLUMN IF NOT EXISTS peak_mode boolean NOT NULL DEFAULT false;
+CREATE TABLE public.waitlist_public_dummy_check (x int); DROP TABLE public.waitlist_public_dummy_check;
