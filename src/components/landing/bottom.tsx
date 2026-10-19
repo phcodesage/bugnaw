@@ -762,7 +762,7 @@ export function Footer() {
               {t.footer.privacy}
             </Link>
           </div>
-          <p>© 2026 Bugnaw Aircon Care · Mandaue City, Cebu · Built with Lovable for #lovablechallenge</p>
+          <p>© 2026 Bugnaw Aircon Care · Mandaue City, Cebu</p>
           <button
             type="button"
             onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
