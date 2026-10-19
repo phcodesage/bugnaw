@@ -2,11 +2,6 @@
 
 An aircon-service booking and operations app for Mandaue and Cebu, with a public storefront, customer booking and lookup, AI-assisted conversations, and an owner workspace for scheduling, inbox management, and impact reporting.
 
-This repository was imported from the owner's `bugnaw.zip` export. The application was built with [Lovable](https://lovable.dev); its source metadata and development plans are preserved.
-
-- Original live app: https://bugnaw.lovable.app
-- Original Lovable project: https://lovable.dev/projects/fcc79f47-9659-438f-a1be-528c4d234be1
-- GitHub: https://github.com/phcodesage/bugnaw
 
 This GitHub snapshot does not establish an editor connection to Lovable or Bolt. Importing it into another platform does not change its development origin.
 
